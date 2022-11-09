@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+      {/* Background Created by Marilynn Ramirez on Canva Pro */} 
       <div className="app" style={{backgroundImage:"url('./purple-bg.png')"}}>
         <Header />
        

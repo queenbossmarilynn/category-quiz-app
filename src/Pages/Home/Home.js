@@ -80,8 +80,10 @@ const Home = ({ name, setName, fetchQuestions }) => {
         </div>
       </div>
 
+      {/*  Quiz Setting Gif Image created by Marilynn Ramirez on Canva Pro */} 
       <img src= '/quiz-settings.gif' className='banner' alt='quiz img'/>
-    </div>
+      
+      </div>
   )
 }
 

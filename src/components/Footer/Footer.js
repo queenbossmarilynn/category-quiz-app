@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div style={{ textAlign: 'center', marginBottom: 10}}>
+    <div className='footer' style={{ textAlign: 'center', marginBottom: 10}}>
         Made with 🤍 by {" "}
         <a
             href="https://www.youtube.com/@SweetCreationStudios"
